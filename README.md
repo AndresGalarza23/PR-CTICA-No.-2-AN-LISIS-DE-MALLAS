@@ -15,13 +15,13 @@ Objetivo especifico:
 
 
 # EXPLICACIÓN DEL PROCEDIMIENTO
-![image](https://user-images.githubusercontent.com/84412132/121987817-d9d27380-cd5e-11eb-8e30-097ba04c11d7.png)
+![image](https://user-images.githubusercontent.com/84585835/122074692-0ae29080-cdbf-11eb-9241-310fd128aadc.png)
 
-![image](https://user-images.githubusercontent.com/84412132/121987852-e656cc00-cd5e-11eb-8249-667fd8c30a9a.png)
+![image](https://user-images.githubusercontent.com/84585835/122074787-20f05100-cdbf-11eb-8dc6-08dc12c4a33c.png)
 
 ![image](https://user-images.githubusercontent.com/84412132/121988863-b7415a00-cd60-11eb-9fe4-13ff90e22b1f.png)
 
-![image](https://user-images.githubusercontent.com/84412132/121989348-9b8a8380-cd61-11eb-9c6b-d58685b76879.png)
+![image](https://user-images.githubusercontent.com/84585835/122074904-3b2a2f00-cdbf-11eb-89ff-5449f6867c6a.png)
 
 ![image](https://user-images.githubusercontent.com/84412132/121989511-e2787900-cd61-11eb-89d3-c5f3487b28a0.png)
 
