@@ -25,8 +25,7 @@ Objetivo especifico:
 
 ![image](https://user-images.githubusercontent.com/84412132/121989511-e2787900-cd61-11eb-89d3-c5f3487b28a0.png)
 
-
-![image](https://user-images.githubusercontent.com/84412132/121989381-a6ddaf00-cd61-11eb-980d-311f35e52619.png)
+![image](https://user-images.githubusercontent.com/84585835/122075398-a8d65b00-cdbf-11eb-88aa-83e1d29f82ef.png)
 
 
 # Circuito
