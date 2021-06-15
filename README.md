@@ -45,9 +45,9 @@ Objetivo especifico:
 
 # CONCLUSIONES
 
-•	Podemos afirmar que la ley de Kirchhoff se cumple, confirmando que en un circuito eléctrico la suma de corrientes que entran a un nodo es igual a la suma de las corrientes que salen del mismo y que en un circuito eléctrico la suma algebraica de las cargas.
+•	Ser ordenado es de gran prioridad en análisis de nodos y de mallas puesto que si no se tiene una buena organización algunos valores saldrían mal. Es muy importante conocer el flujo de corriente en un circuito electrónico puesto que más adelante cuando estemos trabajando compuertas lógicas necesitamos exactitud en los voltajes en cuando a los unos y ceros lógicos, también en el voltaje exacto que una compuerta lógica puede recibir que es de 5 voltios.
+•	Aprendimos también que las leyes de Kirchhoff facilitan bastante el cálculo de mallas y nodos en un circuito electrónico y que su desfasamiento simplemente se debe al margen de error de las resistencias que componen el circuito.
 
-•Al realizar los cálculos del porcentaje de error, notamos que el resultado de dicho porcentaje es  bajo, debido a que los cálculos realizados y las mediciones tomadas son casi similares en su valor, la gran mayoría esto provoca que no difiera mucho el porcentaje de valor entre los resultados y constatamos que son cifras exactas y están bien realizados  
 
 # BILIOGRAFÍA
 
