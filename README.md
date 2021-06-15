@@ -46,7 +46,9 @@ Objetivo especifico:
 # CONCLUSIONES
 
 •	Ser ordenado es de gran prioridad en análisis de nodos y de mallas puesto que si no se tiene una buena organización algunos valores saldrían mal. Es muy importante conocer el flujo de corriente en un circuito electrónico puesto que más adelante cuando estemos trabajando compuertas lógicas necesitamos exactitud en los voltajes en cuando a los unos y ceros lógicos, también en el voltaje exacto que una compuerta lógica puede recibir que es de 5 voltios.
+
 •	Aprendimos también que las leyes de Kirchhoff facilitan bastante el cálculo de mallas y nodos en un circuito electrónico y que su desfasamiento simplemente se debe al margen de error de las resistencias que componen el circuito.
+
 
 
 # BILIOGRAFÍA
