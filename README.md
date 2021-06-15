@@ -19,7 +19,7 @@ Objetivo especifico:
 
 ![image](https://user-images.githubusercontent.com/84585835/122074787-20f05100-cdbf-11eb-8dc6-08dc12c4a33c.png)
 
-![image](https://user-images.githubusercontent.com/84412132/121988863-b7415a00-cd60-11eb-9fe4-13ff90e22b1f.png)
+![image](https://user-images.githubusercontent.com/84585835/122075085-6745b000-cdbf-11eb-8aa3-c424dc9b33c6.png)
 
 ![image](https://user-images.githubusercontent.com/84585835/122074904-3b2a2f00-cdbf-11eb-89ff-5449f6867c6a.png)
 
