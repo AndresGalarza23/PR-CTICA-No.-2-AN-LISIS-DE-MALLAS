@@ -10,7 +10,8 @@ Objetivo especifico:
 
 # MARCO TEÓRICO
 
-![image](https://user-images.githubusercontent.com/84587118/121990273-199b5a00-cd63-11eb-8eb7-2c3481c9d457.png)
+![image](https://user-images.githubusercontent.com/84587118/121990508-844c9580-cd63-11eb-955b-af1d165e0ef5.png)
+
 
 
 # EXPLICACIÓN DEL PROCEDIMIENTO
