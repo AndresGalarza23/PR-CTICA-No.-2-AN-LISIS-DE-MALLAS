@@ -2,11 +2,11 @@
 # OBJETIVOS
 Objectivo General:
 
-•	Analizar el contenido teórico estudiado, mediante el desarrollo de un informe de laboratorio en el cual se expondrán conceptos y definiciones que nos servirán de guía para el desarrollo de problemas planteados, y posteriormente en la elaboración de circuitos tanto en simuladores como en aplicaciones.
+•	Analizar de manera adecuada los conceptos y procedimientos que se suscitan dentro de la práctica al ocupara el metodo para resolver un circuito y con esto poder conseguir una buena ejecución de dicha práctica.
 
 Objetivo especifico: 
 
-•	Comprender los conceptos básicos y los criterios de formulación de los cálculos propuestos en la Ley a utilizar, en este caso la Ley de Kirchhoff para el desarrollo de circuitos en serie, paralelo y mixtos.
+•	Comprender los conceptos teóricos y los criterios de formulación de los cálculos propuestos en el método mallas a utilizar en la resolución de un circuito y tomar en cuenta que para esto se necesita recordad la Ley de Kirchhoff que relaciona el voltaje para desarrollar lo propuesto en la parctica
 
 # MARCO TEÓRICO
 
