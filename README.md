@@ -38,6 +38,7 @@ Objetivo especifico:
 
 # RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/84585835/122073917-69f3d580-cdbe-11eb-8295-9e4187866696.png)
 
 
 # VIDEO
